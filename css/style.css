@@ -1,0 +1,47 @@
+body{
+  
+}
+
+#quotespace{
+  position: absolute;
+  padding: 50px;
+  text-align: center; 
+  /*this is how to center a div */
+  margin-left: auto ;
+  margin-right: auto ;
+  top: -120;
+ }
+
+#mybutton {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+p{
+  display: inline;
+  }
+
+#quote{
+  text-align: center;
+  /*display: inline;*/
+  font-size: 40px;
+  
+  }
+
+.fa-quote-left{
+ position: relative;
+ display: inline;
+ float: left;
+ color: #BFF2FF;
+}
+
+.fa-quote-right{
+ position: relative;
+ display: inline;
+ float: right;
+ color: #BFF2FF;
+  
+ }
