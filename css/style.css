@@ -1,15 +1,15 @@
 body{
-  
+  /*Set our fonts here and then we use precentages to step down the font-size*/
+  /*for mobile versions*/
+  font-size: 40px;
 }
 
 #quotespace{
-  position: absolute;
-  padding: 50px;
-  text-align: center; 
-  /*this is how to center a div */
+  text-align: center;
   margin-left: auto ;
   margin-right: auto ;
   top: -120;
+  width: 400px;
  }
 
 #mybutton {
@@ -22,13 +22,12 @@ body{
 
 p{
   display: inline;
+  font-size: 100%;
   }
 
 #quote{
+  font-size: 100%
   text-align: center;
-  /*display: inline;*/
-  font-size: 40px;
-  
   }
 
 .fa-quote-left{
@@ -43,5 +42,24 @@ p{
  display: inline;
  float: right;
  color: #BFF2FF;
-  
  }
+
+ @media screen and (max-width: 800px){
+   #quotespace{
+     text-align: center;
+     margin-left: auto ;
+     margin-right: auto ;
+     top: -120;
+     width: 90%;
+     padding-left: 5%;
+     padding-right: 5%;
+    }
+p {
+  font-size: 55%;
+}
+ }
+ @media screen and (max-width: 400px), screen and (max-height: 605px){
+p{
+  font-size: 45%;
+}
+}
