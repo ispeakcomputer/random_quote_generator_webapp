@@ -44,7 +44,7 @@ p{
  color: #BFF2FF;
  }
 
- @media screen and (max-width: 800px){
+ @media screen and (max-width: 719px){
    #quotespace{
      text-align: center;
      margin-left: auto ;
@@ -55,11 +55,21 @@ p{
      padding-right: 5%;
     }
 p {
-  font-size: 55%;
+  font-size: 45%;
 }
  }
- @media screen and (max-width: 400px), screen and (max-height: 605px){
+ @media screen and (max-width: 400px){
 p{
   font-size: 45%;
 }
 }
+
+ /*Now make it look good on IPad*/
+ @media only screen
+   and (min-device-width: 768px)
+   and (max-device-width: 1024px)
+   and (-webkit-min-device-pixel-ratio: 1) {
+p{
+  font-size: 65%;
+}
+ }
