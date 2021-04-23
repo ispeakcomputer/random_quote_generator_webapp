@@ -4,4 +4,4 @@ I built this completely custom to retrive Json from the Forismatic API using Boo
 
 You can see a live demo at the following link : 
 
-http:www.ispeakcomputer.com/randomquotegenerator/
+https://ispeakcomputer.com/randomquotes/
