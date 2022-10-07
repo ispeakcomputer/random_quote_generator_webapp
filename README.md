@@ -15,3 +15,8 @@ Uses the following:
 You can see a live demo at the following link : 
 
 https://ispeakcomputer.com/randomquotes/
+
+## Installation
+
+This is a simple javascript webpage application that can be served 
+via any web server.
