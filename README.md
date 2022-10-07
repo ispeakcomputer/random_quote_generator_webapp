@@ -2,7 +2,8 @@
 
 This is a simple random quote generator.
 
-<a href="https://github.com/ispeakcomputer/busbuddy_webapp/blob/master/images/busbuddy_image.png" title="app image"><img src="https://github.com/ispeakcomputer/busbuddy_webapp/blob/master/images/busbuddy_image.png" width="500"></a>
+<a href="https://github.com/ispeakcomputer/random_quote_generator_webapp/blob/master/images/image1.png" title="app image"><img src="https://github.com/ispeakcomputer/random_quote_generator_webapp/blob/master/images/image1.png" width="500"></a>
+<a href="https://github.com/ispeakcomputer/random_quote_generator_webapp/blob/master/images/image2.png" title="app image"><img src="https://github.com/ispeakcomputer/random_quote_generator_webapp/blob/master/images/image2.png" width="500"></a>
 
 Uses the following: 
 - Forismatic API 
