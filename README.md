@@ -18,5 +18,5 @@ https://ispeakcomputer.com/randomquotes/
 
 ## Installation
 
-This is a simple javascript webpage application that can be served 
-via any web server.
+Upload the contents to your webservers public folder or 
+clone this repo and open the html file to play with it locally
